@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813415082306",
+    "project_id": "project1-714a3",
+    "storage_bucket": "project1-714a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813415082306:android:7322da819c05b247d4c0db",
+        "android_client_info": {
+          "package_name": "dev.leonardom.loginjetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813415082306-s4mk4avvf26dm05ncj206nejjv2rrbla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcqiRcPwPhkXfjWD5RcFQKURIQT0breA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813415082306-s4mk4avvf26dm05ncj206nejjv2rrbla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
